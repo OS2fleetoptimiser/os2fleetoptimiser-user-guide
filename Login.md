@@ -14,3 +14,8 @@ så længe du tilgår FleetOptimiser via din arbejds-PC. Benytter du Firefox som
 Er din myndighed ikke integreret til KOMBITs adgangsstyring, skal du indtaste brugernavn (e-mail) og adgangskode i felterne.
 
 **For myndigheder med KOMBITS SSO**: Har du kolleger, som skal have adgang til FleetOptimiser, skal du kontakte jeres lokale brugeradministration, som kan tildele rettigheder til systemet via KOMBITs adgangsstyring.
+
+## Sådan gør du: ##
+1. Klik på knappen "sign in with key-cloak"
+2. Indtast brugernavn og adgangskode eller vælg KOMBIT SSO, hvis din myndighed har valgt login til FleetOptimiser via KOMBITs adgangsstyring.
+3. **KUN FOR KOMBIT SSO**: Find din myndighed på listen. Klik på OK.
