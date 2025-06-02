@@ -7,7 +7,7 @@ Hvis ikke du laver nogle ændringer, og blot klikker på _start simulering_, vil
 
 ![simuleringsopsætning - forside - reduceret str](https://github.com/user-attachments/assets/4a2846ee-bc48-4194-ba84-ace92226fc18)
 
-I kolonnen __antal i simulering__, kan du prøve at fjerne en eller flere biler fra delflåden. Klik herefter igen på simulér for at få simuleringsresultatet på baggrund af den nye simulerede flådesammensætning.
+I kolonnen _antal i simulering_, kan du prøve at fjerne en eller flere biler fra delflåden. Klik herefter igen på simulér for at få simuleringsresultatet på baggrund af den nye simulerede flådesammensætning.
 
 ### Simuleringsindstillinger ###
 
@@ -15,19 +15,20 @@ Før du starter din simulering, kan du lave om i indstillingerne, som påvirker 
 
 ![simuleringsindstillinger - reduceret str](https://github.com/user-attachments/assets/1e86f3ad-49ea-40a4-b9e2-5daf819721d1)
 
-__1. Optimal tildeling__: Hvis du aktiverer _optimal tildeling_, aktiveres en optimeringsalgoritme, der forsøger at planlægge allokeringen af køretøjer på den mest optimale måde. Dvs. en måde hvor der både spares på økonomi og CO2e udledning. Der laves så og sige en afvejning mellem udledning og omkostning, eksempelvis ved at allokere de køretøjerne med den laveste CO2-udledning og laveste omkostning til de længste ture. 
+__Optimal tildeling__: Hvis du aktiverer _optimal tildeling_, aktiveres en optimeringsalgoritme, der forsøger at planlægge allokeringen af køretøjer på den mest optimale måde. Dvs. en måde hvor der både spares på økonomi og CO2e udledning. Der laves så og sige en afvejning mellem udledning og omkostning, eksempelvis ved at allokere de køretøjerne med den laveste CO2-udledning og laveste omkostning til de længste ture. 
 
-__2. Begræns km/år__: Hvis du aktiverer _begræns km/år_, vil simuleringen tage højde for at kilometertallet pr. år ikke overstiger det tilladte, for køretøjer med et max antal km/år på leasingaftalen. Du kan indtaste oplysninger om max km/år under fanebladet konfiguration.
+__Begræns km/år__: Hvis du aktiverer _begræns km/år_, vil simuleringen tage højde for at kilometertallet pr. år ikke overstiger det tilladte, for køretøjer med et max antal km/år på leasingaftalen. Du kan indtaste oplysninger om max km/år under fanebladet konfiguration.
 Her kan du ændre værdierne der danner grundlaget for udregning af de samlede omkostninger samt CO2-udledningen.
 
-__3. Vagtlag__: Her kan du indstille vagtlag for simuleringerne, hvor en bil "låses" til hele det tidsrum du vælger, således at simuleringerne i højere grad afspejler virkeligheden hvor medarbejderne ikke nødvendigvis kan bytte bil hver gang bilen er på hjemlokationen i løbet af en vagt.
+__Vagtlag__: Her kan du indstille vagtlag for simuleringerne, hvor en bil "låses" til hele det tidsrum du vælger, således at simuleringerne i højere grad afspejler virkeligheden hvor medarbejderne ikke nødvendigvis kan bytte bil hver gang bilen er på hjemlokationen i løbet af en vagt.
 
-__4. Generelt__: Her kan du ændre på de generelle stillinger for simuleringer, som f.eks. co2-udledning ved kørsel i hhv. el- og fossilkøretøjer, drivmiddel priser, tid til køretøjsskift og maksimalt tilladte ukørte ture. Du kan vælge at gemme for den enkelte simulering eller at glemme gobalt, dvs. dine ændringer gør sig også gældende i fremtidige simuleringer og for andre brugere i din organisation. 
+__Generelt__: Her kan du ændre på de generelle stillinger for simuleringer, som f.eks. co2-udledning ved kørsel i hhv. el- og fossilkøretøjer, drivmiddel priser, tid til køretøjsskift og maksimalt tilladte ukørte ture. Du kan vælge at gemme for den enkelte simulering eller at glemme gobalt, dvs. dine ændringer gør sig også gældende i fremtidige simuleringer og for andre brugere i din organisation. 
 
-__5. Cykel__: Hvis du vil simulere med cykler, kan du indstille en række parametre for disse, bl.a. maksimal rutelængde, gennemsnitshastighed, samt indstille hvilke tidsrum ruter må tildeles til cykler, f.eks. hvis cykler kun må tildeles til ruter i dagtimerne.
+__Cykel__: Hvis du vil simulere med cykler, kan du indstille en række parametre for disse, bl.a. maksimal rutelængde, gennemsnitshastighed, samt indstille hvilke tidsrum ruter må tildeles til cykler, f.eks. hvis cykler kun må tildeles til ruter i dagtimerne.
 
-__6. Testkøretøjer__: Her kan du tilføje testkøretøjer til simuleringen, hvis du vil prøve at simulere med cykler eller andre bilmodeller end dem der er på lokationen i forvejen. Du kan tilføje køretøjerne direkte her, eller gøre det i konfigurationen i venstre side. 
-
+__Testkøretøjer__: Her kan du tilføje testkøretøjer til simuleringen, hvis du vil prøve at simulere med cykler eller andre bilmodeller end dem der er på lokationen i forvejen. Du kan tilføje køretøjerne direkte her, eller gøre det i konfigurationen i venstre side. 
 
 
 ## Resultater ##
+
+
