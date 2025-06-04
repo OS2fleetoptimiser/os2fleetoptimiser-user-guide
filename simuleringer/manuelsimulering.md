@@ -2,6 +2,10 @@
 
 I _manuel simulering_ kan du manuelt tilføje og fjerne køretøjer i simuleringerne. Udgangspunktet for simuleringen er de køretøjer, som er på lokationen/-erne i forvejen. I dette simuleringsværktøj kan du f.eks. undersøge om der er overkapacitet ved at fjerne et eller flere køretøjer, se hvor stor en del af turene der kan køres på cykel ud fra en række parametre du selv kan indstille, eller teste nye bilmodeller, som I overvejer at anskaffe ift. bl.a. rækkevidde, ladetid, CO2-udledning og økonomi.
 
+I denne vejledning kan du læse om de to faner i simuleringsværktøjet:
++ Simuleringsopsætning
++ Resultater
+
 ## Simuleringsopsætning ##
 Hvis ikke du laver ændringer og blot klikker på _start simulering_, vil du få et overblik over de ture, der bliver kørt i dag med den nuværende sammensætning, og algoritmen vil tildele de længste ture til de grønneste og mest økonomiske køretøjer for at reducere omkostninger og co2-udledning.
 
