@@ -47,9 +47,9 @@ __Årlig co2-reduktion__: Her sammenlignes den faktiske kørsels udledning mod d
 
 __Ikke kørte rundture pr. dag__: Her kan man se hvornår ikke kørte rundture ligger. Flere detaljer kan findes under fanerne _køretøjsdetaljer_ og _ruter_. 
 
-__Nuværende turfordeling på køretøjstype__: Her kan man se, hvordan turene fordeler sig i den faktiske kørsel. I eksemplet ses det, at størstedelen af turene er på kortere ture, og at der er en nogenlunde jævn fordeling mellem kørsel i fossile- og el-biler. 
+__Nuværende turfordeling på køretøjstype__: Viser hvordan turene er blevet kørt i virkeligheden, fordelt på gennemsnitlig rutelængde og type af køretøj. X-aksen viser den gennemsnitlige rutelængde. Y-aksen viser antallet af ture af en given gennemsnitlig rutelængde. I eksemplet ses det, at størstedelen af turene er på kortere ture, og at der er en nogenlunde jævn fordeling mellem kørsel i fossile- og el-biler. 
 
-__Simuleret turfordeling på køretøjstype__: I eksemplet kan man se, at algoritmen har flyttet mere kørsel over til de to el-biler, og samtidig kan man se, at rundturen uden køretøj er på en rute under 20 km. Såfremt man har tilføjet eksempelvis el-cykler i simuleringsindstillinger, vil det også fremgå af denne visualisering.  
+__Simuleret turfordeling på køretøjstype__: Viser fordelingen af ture, som algoritmerne vil foreslå, at turene var blevet kørt ud fra en klimamæssig og økonomisk mest hensigtsmæssig betragtning, samt eventuelle ture som ikke kan køres med den ændrede sammensætning og allokering af køretøjer. I eksemplet kan man se, at algoritmen har flyttet mere kørsel over til de to el-biler, og samtidig kan man se, at rundturen uden køretøj er på en rute under 20 km. Såfremt man har tilføjet eksempelvis el-cykler i simuleringsindstillinger, vil det også fremgå af denne visualisering.  
 
 Du kan til hver en tid hente både nuværende og simuleret data ned i excel ved at trykke på pilen øverst i menuen ved siden af _ruter_. 
 
