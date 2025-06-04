@@ -1,31 +1,28 @@
 # Automatisk simulering # 
 
-På denne side foretages den automatiserede simulering, der på baggrund af det faktiske kørselsmønster vil foreslå de mest optimale flådesammensætninger. Formålet er at tilfredsstille kørselsbehovet, men med en grønnere og/eller mere økonomisk bæredygtig flådesammensætning. Optimeringsalgoritmen vil forsøge at finde frem til løsninger og præsentere de op til fem bedste løsninger ud af potentielt flere tusinde forskellige kombinationer.
+På denne side foretages den automatiserede simulering der, på baggrund af det faktiske kørselsmønster, vil foreslå de mest optimale flådesammensætninger. Formålet er at tilfredsstille kørselsbehovet, men med en grønnere og/eller mere økonomisk bæredygtig flådesammensætning. Optimeringsalgoritmen vil forsøge at finde frem til løsninger og præsentere de op til fem bedste løsninger ud af potentielt flere tusinde forskellige kombinationer.
 
 I denne vejledning kan du læse om de to faner i simuleringsværktøjet: 
 + Optimeringsopsætning
 + Resultater
 
 ## Optimeringsopsætning ##
-Meget af opsætningen i den automatiske simulering er det samme som i __manuel simulering link__, og her beskrives derfor kun de områder, der er specifikke for den automatiske simulering. 
+Meget af opsætningen i den automatiske simulering er det samme som i __manuel simulering link__, hvorfor kun de opsætninger, der adskiller sig, gennemgås her.
 
-Antal i optimering
+![automatisk simulering -  opsætning - red str](https://github.com/user-attachments/assets/d5c5be95-9665-4ad1-8409-32cebb376e61)
 
-Ser anderledes ud når man tilføjer testkøretøjer - kan ikke på samme måde fjerne, men de tages med
 
-Sådan kommer du i gang med den automatiske simulering:
+__Antal i optimering__: Algoritmen i målsimulering vil ikke skifte biler med gyldig leasingaftale ud, medmindre de er i overkapacitet. Du kan manuelt vælge/frigive specifikke køretøjer, som gerne må skiftes ud med andre alternativer, og på den måde give algoritmen mere råderum.  
 
-Her kan du styre hvad algoritmerne skal prioritere: Mest mulig CO2-reduktion (10) eller størst mulig økonomisk besparelse (0) eller 50/50 mellem de to parametre.
-Algoritmen i målsimulering vil ikke skifte biler med gyldig leasingaftale ud, medmindre de er i overkapacitet. Du kan manuelt vælge specifikke køretøjer, som gerne må skiftes ud med andre alternativer, og på den måde give algoritmen mere råderum. 
-Her kan du lave de samme indstillinger, som i manuel simulering, f.eks. tilføje en specifik bilmodel eller cykler, som du gerne vil teste i simuleringen. Hvis ikke du foretager nogle ændringer, vil alle køretøjer i din database blive en del af simuleringen. 
-Klik på optimér, når du har lavet dine indstillinger for målsimuleringen.
-Når simuleringen er slut, præsenteres op til fem forskellige forslag til en ændret flådesammensætning, med udgangspunkt i den faktiske kørsel og ud fra de indstillinger du har lavet. Du har for hvert forslag mulighed for at hente resultaterne ned i excel.
+__Optimeringsindstillinger__: 
++ Vægtning mellem omkostning og co2e udledning: Du kan i den automatiske simulering styre, hvad algoritmen skal prioritere: Her kan du styre hvad algoritmerne skal prioritere: Mest mulig CO2-reduktion (10), størst mulig økonomisk besparelse (0) eller 50/50 mellem de to parametre.
++ Testkøretøjer: Her kan du tilføje test-køretøjer, som algoritmen skal tage med i analysen. Dette giver mest værdi, hvis du har frigivet køretøjer, som kan skiftes ud. 
 
-__Optimeringsindstillinger__
-
-Her kan du styre hvad algoritmerne skal prioritere: Mest mulig CO2-reduktion (10) eller størst mulig økonomisk besparelse (0) eller 50/50 mellem de to parametre.
 
 ## Resultater ##
+
+Når simuleringen er slut, præsenteres op til fem forskellige forslag til en ændret flådesammensætning, med udgangspunkt i den faktiske kørsel og ud fra de indstillinger du har lavet. Du har for hvert forslag mulighed for at hente resultaterne ned i excel.
+
 Besparelse (DKK/år): Den samlede økonomiske besparelse for den højest rangerede løsning. 
 Reduktion udledning (Ton Co2e/år): Den samlede årlige CO2e-besparelse for den højeste rangerede løsning. Tallet er beregnet vha. miljøstyrelsens TCO-værktøj, hvorfra det udvalgte køretøjs allokerede ture, er udgangspunkt for det enkelte køretøjs årlige CO2e. 
 Årlig omkostning i kr.: Oversigt over totale omkostninger for den nuværende flåde samt de forslåede løsninger. Der vises de samlede omkostninger inkl. omkostninger til drivmiddel.
