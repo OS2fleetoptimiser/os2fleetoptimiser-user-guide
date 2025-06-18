@@ -1,3 +1,10 @@
+---
+title: Simuleringssetup
+layout: default
+parent: Simuleringer
+has_children: false
+---
+
 # Simuleringssetup #
 Den første side man møder i FleetOptimiser, er Simuleringssetup. Her vælger du de(n) lokation(er) du gerne vil simulere på, simuleringsperioden samt hvis du kun vil simulere på specifikke køretøjer på den valgte lokation. Hvis du simulerer på flere lokationer på samme tid, vil algoritmerne betragte det som værende én fælles flåde, hvor alle ture kan fordeles mellem alle køretøjer i simuleringen uanset deres faktiske start- og slutlokation.
 
