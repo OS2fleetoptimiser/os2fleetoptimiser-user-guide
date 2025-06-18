@@ -1,3 +1,10 @@
+---
+title: Manuel simulering
+layout: default
+parent: Simuleringer
+has_children: false
+---
+
 # Manuel simulering #
 
 I _manuel simulering_ kan du manuelt tilføje og fjerne køretøjer i simuleringerne. Udgangspunktet for simuleringen er de køretøjer, som er på lokationen/-erne i forvejen. I dette simuleringsværktøj kan du f.eks. undersøge om der er overkapacitet ved at fjerne et eller flere køretøjer, se hvor stor en del af turene der kan køres på cykel ud fra en række parametre du selv kan indstille, eller teste nye bilmodeller, som I overvejer at anskaffe ift. bl.a. rækkevidde, ladetid, CO2-udledning og økonomi.
