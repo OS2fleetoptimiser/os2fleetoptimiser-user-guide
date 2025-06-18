@@ -1,3 +1,10 @@
+---
+title: Automatisk simulering
+layout: default
+parent: Simuleringer
+has_children: false
+---
+
 # Automatisk simulering # 
 
 På denne side foretages den automatiserede simulering der, på baggrund af det faktiske kørselsmønster, vil foreslå de mest optimale flådesammensætninger. Formålet er at tilfredsstille kørselsbehovet, men med en grønnere og/eller mere økonomisk bæredygtig flådesammensætning. Optimeringsalgoritmen vil forsøge at finde frem til løsninger og præsentere de op til fem bedste løsninger ud af potentielt flere tusinde forskellige kombinationer.
