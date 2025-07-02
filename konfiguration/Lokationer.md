@@ -1,3 +1,10 @@
+---
+title: Lokationer
+layout: default
+parent: konfiguration
+has_children: false
+---
+
 # Lokationer #
 
 OBS: Ændringer i konfiguration vil medføre ændringer for samtlige brugere i din organisation
