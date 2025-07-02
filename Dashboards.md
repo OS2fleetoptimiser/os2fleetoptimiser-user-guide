@@ -1,3 +1,10 @@
+---
+title: Dashboards
+layout: home
+nav_order: 3
+---
+
+
 # Dashboards #
 Her kan du læse mere om business intelligence-modulet i FleetOptimiser, hvor kørselsdata udstilles i forskellige visninger. Du kan blandt andet se CO2-udledningen i en given periode fra samtlige køretøjer der er oprettet i FleetOptimiser, hvor mange procent af kørslen der er kørt i elbil, antal km pr. vagtlag for en lokation eller et specifikt køretøj, samt få et overblik over anvendelsesgraden udstillet som et heat map. Samtlige visninger i dashboards kan hentes ned som billedfiler. 
 
