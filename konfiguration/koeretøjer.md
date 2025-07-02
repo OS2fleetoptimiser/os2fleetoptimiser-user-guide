@@ -1,5 +1,5 @@
 # Køretøjer #
-OBS: Ændringer i konfiguration vil medføre ændringer for samtlige brugere i din organisation
+_OBS: Ændringer i konfiguration vil medføre ændringer for samtlige brugere i din organisation_
 
 Her vises et overblik over alle de køretøjer, der er oprettet i FleetOptimiser. Her kan du både finde de køretøjer, der er hentet via integrationen til jeres flådestyringssystem, samt de testkøretøjer I selv har oprettet. Det er også i konfiguration, at I kan udfylde og rette i metadata på køretøjerne, samt flytte et køretøj fra én lokation til en anden. Det er ikke alle flådestyringssystemer, som udstiller metadata på køretøjerne. Derfor kan det være nødvendigt selv at udfylde de manglende data.
 
@@ -11,6 +11,10 @@ Her vises et overblik over alle de køretøjer, der er oprettet i FleetOptimiser
 5. Er en bil blevet flyttet fra én lokation til en anden, men I har glemt at rette det, kan I flytte turene til den nye lokation, fra en given dato ved at klikke på waypoint-ikonet.
 6. Hvis du vil tilføje et testkøretøj eksempelvis hvis I står overfor et udbud på nye biler eller vil simulere med cykler, kan I oprette nye køretøjer ved at klikke på knappen.
 7. Ønsker du at slette et køretøj, gøres det ved at trykke på skraldespandsikonet. Køretøjet bliver ikke slettet før, du bekræfter ved at trykke på Gem ændringer. Her kan du vælge om du også vil slette alle køretøjets ture.
+
+![Konfiguration køretøjer markering](https://github.com/user-attachments/assets/96697a91-ef3a-4d61-9bc6-dd550b40a9a4)
+
+![konfiguration enkelt køretøj markering](https://github.com/user-attachments/assets/ba8fed54-4bde-45fc-9c00-e0292ed4cec3)
 
 FleetOptimiser sletter automatisk ture der er over to år gamle. Hvis I vil ændre til at slette ture efter kortere tid, kan I ændre
 indstillingerne ved at klikke på knappen slet tur.
