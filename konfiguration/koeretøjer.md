@@ -1,3 +1,10 @@
+---
+title: Køretøjer
+layout: default
+parent: Konfiguration
+has_children: false
+---
+
 # Køretøjer #
 _OBS: Ændringer i konfiguration vil medføre ændringer for samtlige brugere i din organisation_
 
