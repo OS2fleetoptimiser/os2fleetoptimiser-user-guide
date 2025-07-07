@@ -2,7 +2,7 @@
 title: Manuel simulering
 layout: default
 parent: simuleringer
-has_children: false
+nav_order: 2
 ---
 
 # Manuel simulering #
