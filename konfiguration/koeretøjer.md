@@ -1,7 +1,7 @@
 ---
 title: Køretøjer
 layout: default
-parent: Konfiguration
+parent: konfiguration
 has_children: false
 ---
 
