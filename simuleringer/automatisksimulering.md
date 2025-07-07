@@ -2,7 +2,7 @@
 title: Automatisk simulering
 layout: default
 parent: Simuleringer
-has_children: false
+nav_order: 3
 ---
 
 # Automatisk simulering # 
