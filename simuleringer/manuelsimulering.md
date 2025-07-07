@@ -1,7 +1,7 @@
 ---
 title: Manuel simulering
 layout: default
-parent: Simuleringer
+parent: simuleringer
 has_children: false
 ---
 
