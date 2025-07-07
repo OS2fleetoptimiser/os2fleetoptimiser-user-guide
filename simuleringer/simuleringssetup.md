@@ -2,7 +2,7 @@
 title: Simuleringssetup
 layout: default
 parent: Simuleringer
-has_children: false
+nav_order: 1
 ---
 
 # Simuleringssetup #
