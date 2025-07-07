@@ -2,7 +2,7 @@
 title: Lokationer
 layout: default
 parent: konfiguration
-has_children: false
+nav_order: 2
 ---
 
 # Lokationer #
