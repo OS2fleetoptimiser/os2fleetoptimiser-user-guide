@@ -1,7 +1,7 @@
 ---
 title: Manuel simulering
 layout: default
-parent: simuleringer
+parent: Simuleringer
 nav_order: 2
 ---
 
