@@ -1,7 +1,7 @@
 ---
 title: Køretøjer
 layout: default
-parent: konfiguration
+parent: Konfiguration
 nav_order: 1
 ---
 
