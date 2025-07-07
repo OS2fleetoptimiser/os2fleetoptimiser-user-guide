@@ -2,7 +2,7 @@
 title: Køretøjer
 layout: default
 parent: konfiguration
-has_children: false
+nav_order: 1
 ---
 
 # Køretøjer #
