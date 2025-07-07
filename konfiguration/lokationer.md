@@ -1,7 +1,7 @@
 ---
 title: Lokationer
 layout: default
-parent: konfiguration
+parent: Konfiguration
 nav_order: 2
 ---
 
