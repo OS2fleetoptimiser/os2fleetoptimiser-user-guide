@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: OS2 FleetOptimiser brugervejledning
+description: En step-by-step guide der beskriver brugen af FleetOptimiser
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+logo: /assets/templogo.png
+
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+ FleetOptimiser OS2: https://github.com/OS2fleetoptimiser/OS2fleetoptimiser
+
+plugins:
+  - jekyll-relative-links
