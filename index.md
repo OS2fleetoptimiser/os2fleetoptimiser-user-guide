@@ -13,23 +13,8 @@ Har du spørgsmål eller forslag til forbedring af brugervejledningen? Send en m
 
 Hop til de forskellige user-guides her:
 
-### Login
-Læs om hvordan du logger ind via den fælleskommunale adgangsstyring: 
-
-[Login](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/Login.html)
-
-### Simuleringer
-Læs om hvordan du sætter simuleringer op, og hvordan du bruger det manuelle og automatiske simuleringsværktøj.
-
-[Simuleringer](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/simuleringer/simuleringer.html)
-
-### Dashboards
-Få en introduktion til de fem BI-inspirerede Dashboards, der kan tilgås i FleetOptimiser.
-
-[Dashboards](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/Dashboards.html)
-
-### Konfiguration
-Lær om hvordan du konfigurerer køretøjer og lokationer i dit setup. Du kan bl.a. tilføje, fjerne og flytte køretøjer og optimere dine rundture på lokationerne.
-
-[Konfiguration](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/konfiguration/konfiguration.html)
+-[Login](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/Login.html): Læs om hvordan du logger ind via den fælleskommunale adgangsstyring
+-[Simuleringer](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/simuleringer/simuleringer.html): Læs om hvordan du sætter simuleringer op, og hvordan du bruger det manuelle og automatiske simuleringsværktøj.
+-[Dashboards](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/Dashboards.html): Få en introduktion til de fem BI-inspirerede Dashboards, der kan tilgås i FleetOptimiser.
+-[Konfiguration](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/konfiguration/konfiguration.html): Lær om hvordan du konfigurerer køretøjer og lokationer i dit setup. Du kan bl.a. tilføje, fjerne og flytte køretøjer og optimere dine rundture på lokationerne.
 
