@@ -18,14 +18,13 @@ Er din myndighed ikke integreret til KOMBITs adgangsstyring, skal du indtaste br
 ## Sådan gør du: ##
 1. Klik på knappen "sign in with key-cloak"
 
-![20240415 Login side1](https://github.com/user-attachments/assets/0ebee0f6-deb0-49d1-a5e7-b38fb965e769)
+![20240415 Login side1.png](assets\20240415 Login side1.png)
 
 2. Indtast brugernavn og adgangskode eller vælg KOMBIT SSO, hvis din myndighed har valgt login til FleetOptimiser via KOMBITs adgangsstyring.
 
-![20240415 Login side2](https://github.com/user-attachments/assets/1a9d4fe6-6649-4353-ad3a-3562a293ddbd)
-  
+![20240415 Login side2.png](assets\20240415 Login side2.png)
+
 3. **KUN FOR KOMBIT SSO**: Find din myndighed på listen. Klik på OK.
 
-![20231031 Login KOMBIT SSO FleetOptimiser](https://github.com/user-attachments/assets/a0d6c672-4ebc-4d13-9db5-f8adea944566)
-
+![20231031 Login KOMBIT SSO FleetOptimiser.png](assets\20231031 Login KOMBIT SSO FleetOptimiser.png)
 
