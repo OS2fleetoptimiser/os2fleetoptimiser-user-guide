@@ -16,8 +16,7 @@ I denne vejledning kan du læse om de to faner i simuleringsværktøjet:
 ## Optimeringsopsætning ##
 Meget af opsætningen i den automatiske simulering er det samme som i __manuel simulering link__, hvorfor kun de opsætninger, der adskiller sig, gennemgås her.
 
-![automatisk simulering -  opsætning - red str](https://github.com/user-attachments/assets/d5c5be95-9665-4ad1-8409-32cebb376e61)
-
+![automatisk simulering -  opsætning - red str.png](..\assets\automatisk simulering -  opsætning - red str.png)
 
 __Antal i optimering__: Algoritmen i målsimulering vil ikke skifte biler med gyldig leasingaftale ud, medmindre de er i overkapacitet. Du kan manuelt vælge/frigive specifikke køretøjer, som gerne må skiftes ud med andre alternativer, og på den måde give algoritmen mere råderum.  
 
@@ -29,6 +28,8 @@ __Optimeringsindstillinger__:
 ## Resultater ##
 
 Når simuleringen er slut, præsenteres op til fem forskellige forslag til en ændret flådesammensætning, med udgangspunkt i den faktiske kørsel og ud fra de indstillinger du har lavet. Du har for hvert forslag mulighed for at hente resultaterne ned i excel.
+
+![automatisk simulering - resultat 2.png](..\assets\automatisk simulering - resultat 2.png)
 
 Besparelse (DKK/år): Den samlede økonomiske besparelse for den højest rangerede løsning. 
 Reduktion udledning (Ton Co2e/år): Den samlede årlige CO2e-besparelse for den højeste rangerede løsning. Tallet er beregnet vha. miljøstyrelsens TCO-værktøj, hvorfra det udvalgte køretøjs allokerede ture, er udgangspunkt for det enkelte køretøjs årlige CO2e. 

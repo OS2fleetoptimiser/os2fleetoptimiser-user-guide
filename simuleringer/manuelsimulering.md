@@ -16,7 +16,7 @@ I denne vejledning kan du læse om de to faner i simuleringsværktøjet:
 ## Simuleringsopsætning ##
 Hvis ikke du laver ændringer og blot klikker på _start simulering_, vil du få et overblik over de ture, der bliver kørt i dag med den nuværende sammensætning, og algoritmen vil tildele de længste ture til de grønneste og mest økonomiske køretøjer for at reducere omkostninger og co2-udledning.
 
-![simuleringsopsætning - forside - reduceret str](https://github.com/user-attachments/assets/4a2846ee-bc48-4194-ba84-ace92226fc18)
+![simuleringsopsætning - forside - reduceret str..png](..\assets\simuleringsopsætning - forside - reduceret str..png)
 
 I kolonnen _antal i simulering_, kan du prøve at fjerne et eller flere køretøjer fra delflåden. Klik herefter igen på simulér for at få simuleringsresultatet på baggrund af den nye simulerede flådesammensætning.
 
@@ -24,7 +24,7 @@ I kolonnen _antal i simulering_, kan du prøve at fjerne et eller flere køretø
 
 Før du starter din simulering, kan du lave om i indstillingerne, som påvirker resultatet af simuleringen.
 
-![simuleringsindstillinger - reduceret str](https://github.com/user-attachments/assets/1e86f3ad-49ea-40a4-b9e2-5daf819721d1)
+![simuleringsindstillinger - reduceret str..png](..\assets\simuleringsindstillinger - reduceret str..png)
 
 __Optimal tildeling__: Hvis du aktiverer _optimal tildeling_, aktiveres en intelligent algoritme. Algoritmen er optimeret til at håndtere enkelt-dags-ture, og den anbefales derfor ikke, hvis man har lange rundture, der strækker sig over flere dage. 
 
@@ -45,8 +45,7 @@ __Testkøretøjer__: Her kan du tilføje testkøretøjer til simuleringen, hvis 
 På resultatsiden vises resultaterne af din simulering, herunder både potentielle gevinster og visualiseringer af ændringer. Udover oversigten med de forskellige visualiseringer, er det også her muligt at dykke ned i simuleringerne ved både at se køretøjsdetaljer og allokerede køretøjer til ruter på hhv. nuværende og simulerede flåde. 
 
 _Eksemplet på et resultat nedenfor er baseret på en lokation med seks køretøjer, heraf fire fossile og to el-drevne._
-
-![manuel simulering resultat red str](https://github.com/user-attachments/assets/73512023-cdb0-403a-bfb5-ef337fbd6a93)
+![manuel simulering resultat red str.jpg](..\assets\manuel simulering resultat red str.jpg)
 
 __Rundture uden køretøj__: Viser hvor mange, hvis nogen, af rundturene i den valgte periode, der ikke ville kunne være blevet kørt, hvis man implementere de tiltag, man har lavet i indstillingerne. I eksemplet har man fjernet to ud af seks køretøjer, og det betyder, at én rundtur ud af de 78 i perioden ikke ville kunne være blevet kørt. 
 

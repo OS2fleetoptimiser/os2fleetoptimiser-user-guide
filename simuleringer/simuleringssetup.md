@@ -18,6 +18,6 @@ Sådan kommer du i gang:
 ![simuleringssetup - vælg dato reduceret str.png](..\assets\simuleringssetup - vælg dato reduceret str.png)
 
 **3. Vælg de køretøjer du vil medtage i simuleringen, ved at klikke på knappen *vælg alle* eller vælg specifikke biler ved at sætte flueben i kolonnen medtag i simulering.**
-![simuleringssetup - vælg biler.png](..\assets\simuleringssetup - vælg biler.png)
+![simuleringssetup - vælg biler.png](..\assets\simuleringssetup - vælg biler.png "simuleringssetup - vælg biler.png")
 
 Vær opmærksom, hvis et køretøj er markeret som _ikke aktiv_ - det KAN skyldes, at bilen har holdt stille i perioden, men det kan også være et tegn på en defekt eller manglende forbindelse til GPS'en.

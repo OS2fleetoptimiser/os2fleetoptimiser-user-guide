@@ -7,7 +7,7 @@ nav_order: 2
 
 # Lokationer #
 
-OBS: Ændringer i konfiguration vil medføre ændringer for samtlige brugere i din organisation
+*OBS: Ændringer i konfiguration vil medføre ændringer for samtlige brugere i din organisation*
 
 Det primære formål med lokations-indstillingerne er at få et overblik over aggregerings-præcisionen, dvs. hvor mange % af kørslen på en given lokation der samles til færdiggjorte rundture. Alle kørte km samles og medregnes i simuleringer, men når kørsel samles til rundture, bliver resultaterne mere præcise, særligt hvis ikke man har aktiveret vagtlag. Præcisionen dækker over den seneste måneds data, og opdateres hver gang, du logger ind. Ved ændringer kan der gå op til en måned, før du kan se den fulde effekt.
 
