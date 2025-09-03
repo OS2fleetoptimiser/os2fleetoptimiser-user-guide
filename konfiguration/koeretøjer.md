@@ -19,8 +19,8 @@ Her vises et overblik over alle de køretøjer, der er oprettet i FleetOptimiser
 6. Hvis du vil tilføje et testkøretøj eksempelvis hvis I står overfor et udbud på nye biler eller vil simulere med cykler, kan I oprette nye køretøjer ved at klikke på knappen.
 7. Ønsker du at slette et køretøj, gøres det ved at trykke på skraldespandsikonet. Køretøjet bliver ikke slettet før, du bekræfter ved at trykke på Gem ændringer. Her kan du vælge om du også vil slette alle køretøjets ture.
 
-![Konfiguration køretøjer](..\assets\Konfigurationkoeretoejermarkering.JPG)
-![konfiguration enkelt køretøj markering.JPG](..\assets\konfigurationenkeltkoeretoejmarkering.JPG)
+![Konfiguration køretøjer](../assets/Konfigurationkoeretoejermarkering.JPG)
+![konfiguration enkelt køretøj markering.JPG](../assets/konfigurationenkeltkoeretoejmarkering.JPG)
 
 FleetOptimiser sletter automatisk ture der er over to år gamle. Hvis I vil ændre til at slette ture efter kortere tid, kan I ændre
 indstillingerne ved at klikke på knappen slet tur.
