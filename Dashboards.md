@@ -21,36 +21,36 @@ I de næste afsnit beskrives visningerne i de forskellige dashboards.
 
 ## Overblik ##
 I overblik kan du finde tre grafer. Den øverste graf viser CO2-udledningen pr. dag, den midterste viser hvor stor en procentdel af kørslen, som er kørt i elbil, mens den nederste graf viser det samlede antal kørte km. Fælles for de tre grafer gælder at du kan få vist data for alle køretøjer der er oprettet i FleetOptimiser, eller en eller flere specifikke lokationer i den valgte dataperiode.
-![Dashboard - overblik.jpeg](assets\Dashboard - overblik.jpeg)
+![Dashboard - overblik.jpeg](assets/Dashboard-overblik.jpeg)
 
 ## Kørsel ##
 I kørsel kan du få overblik over det gennemsnitlige antal kørte km pr. dag pr. bil i den valgte dataperiode på en given lokation eller afdeling, hvis der er flere afdelinger på samme lokation. Du kan også få overblik over antal km i et givent tidsrum, fx pr. vagtlag i hjemmeplejen. Herudover kan du se det samlede antal kørte km pr. måned, samt antal km pr. dag pr. vagtlag på lokationen, afdelingen eller for specifikke køretøjer.
 
-![Dashboard - kørsel.jpeg](assets\Dashboard - kørsel.jpeg)
+![Dashboard - kørsel.jpeg](assets/Dashboard-koersel.jpeg)
 
 ## Køretøjsaktivitet ##
 I køretøjsaktivitet kan du få et hurtigt overblik over hvor meget køretøjerne er i brug på daglig basis, og dermed hvor godt flåden
 er udnyttet. Data er udstillet som et heat map, hvor  farven bliver mørkere jo tættere antallet af kørte km kommer på 0, og køretøjerne dermed ikke udnyttes optimalt. Du kan selv indtaste en grænseværdi for hvad der er optimal udnyttelse af køretøjerne og farverne justeres herefter. 
 
-![Dashboard - køretøjsaktivitet.jpeg](assets\Dashboard - køretøjsaktivitet.jpeg)
+![Dashboard - køretøjsaktivitet.jpeg](assets/Dashboard-koeretoejsaktivitet.jpeg)
 
 Du kan få vist data pr. lokation, afdeling, forvaltning eller specifikke køretøjer. Køretøjsoverblik kan trækkes ud som Excel-fil, baseret på de valgte filtre.
 
 ## Tidsaktivitet ##
 I tidsaktivitet kan du, ligesom i køretøjsaktivitet, få et hurtigt overblik over hvor meget køretøjerne er i brug på daglig basis, men baseret på tid i stedet for antal kørte km. Data er udstillet som et heat map, hvor farven bliver mørkere jo tættere antallet af kørte km kommer på den valgte grænseværdi eller overstiger grænseværdien. Jo højere tallet er, jo bedre udnyttes køretøjet.
 
-![Dashboard - tidsaktivitet.jpeg](assets\Dashboard - tidsaktivitet.jpeg)
+![Dashboard - tidsaktivitet.jpeg](assets/Dashboard-tidsaktivitet.jpeg)
 Du kan selv indtaste en grænseværdi for hvad der er optimal udnyttelse af køretøjerne og farverne justeres herefter. Du kan få vist data pr. lokation, afdeling, forvaltning eller specifikke køretøjer.
 
 ## Turoverblik ##
 Her kan du få overblik over ruternes længde, varighed, antal stop på ruten og hvor stor en del af tiden køretøjerne holder stille på ruten. Indtast maks. distance, for at filtrere lange ruter fra og minimum parkeringstid for at filtrere ruter fra med korte pauser, fx ruter i hjemmeplejen med mange korte stop.
 
-![Dashboard - turoverblik.jpeg](assets\Dashboard - turoverblik.jpeg)
+![Dashboard - turoverblik.jpeg](assets/Dashboard-turoverblik.jpeg)
 Vær opmærksom på, at jo højere din lokationspræcision er (gå til konfiguration), jo flere rundture vil præsenteres i dette dashboard. 
 
 
 ## Ledighed ##
 I ledighed kan du få en grafisk repræsentation af ledige køretøjer i en given tidsperiode, dvs. hvor mange køretøjer har stået stille og ikke været i gang med en rundtur. Du kan maksimalt sætte perioden til en uge ad gangen. 
 
-![Dashboard - ledighed.jpeg](assets\Dashboard - ledighed.jpeg)
+![Dashboard - ledighed.jpeg](assets/Dashboard-ledighed.jpeg)
 For at få et mere detaljeret overblik over ledighed fordelt på døgnet skal du sætte perioden til maks. to dage. 
