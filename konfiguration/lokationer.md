@@ -13,4 +13,4 @@ Det primære formål med lokations-indstillingerne er at få et overblik over ag
 
 En lav præcision kan bl.a. skyldes, at lokationer ligger for tæt på hinanden geografisk, at parkeringspunktet er sat forkert, eller at køretøjet har flere parkeringspunkter på en given lokation, som ikke er markeret. I konfigurationen har du mulighed for at tilføje og ændre parkeringspunkter, og teste om det vil påvirke præcisionen. I eksemplet nedenfor er der indsat ét parkeringspunkt og der har den seneste måned været en rundturspræcision på 48%. Ved at indsætte et parkeringspunkt på en stikvej ved siden af lokationen, øges rundturspræcisionen til 69%. Dette vil påvirke simuleringers præcision, fordi flere kørte km vil være bundet til en færdiggjort rundtur.
 
-![Konfiguration lokationer.png](..\assets\Konfiguration lokationer.png)
+![Konfiguration lokationer.png](../assets/Konfigurationlokationer.png)
