@@ -16,7 +16,7 @@ I denne vejledning kan du læse om de to faner i simuleringsværktøjet:
 ## Simuleringsopsætning ##
 Hvis ikke du laver ændringer og blot klikker på _start simulering_, vil du få et overblik over de ture, der bliver kørt i dag med den nuværende sammensætning, og algoritmen vil tildele de længste ture til de grønneste og mest økonomiske køretøjer for at reducere omkostninger og co2-udledning.
 
-![simuleringsopsætning - forside - reduceret str..png](..\assets\simuleringsopsætning - forside - reduceret str..png)
+![simuleringsopsætning - forside - reduceret str..png](..\assets\simuleringsopsætning - forside - reduceret str.png)
 
 I kolonnen _antal i simulering_, kan du prøve at fjerne et eller flere køretøjer fra delflåden. Klik herefter igen på simulér for at få simuleringsresultatet på baggrund af den nye simulerede flådesammensætning.
 
@@ -24,7 +24,7 @@ I kolonnen _antal i simulering_, kan du prøve at fjerne et eller flere køretø
 
 Før du starter din simulering, kan du lave om i indstillingerne, som påvirker resultatet af simuleringen.
 
-![simuleringsindstillinger - reduceret str..png](..\assets\simuleringsindstillinger - reduceret str..png)
+![simuleringsindstillinger - reduceret str..png](..\assets\simuleringsindstillinger - reduceret str.png)
 
 __Optimal tildeling__: Hvis du aktiverer _optimal tildeling_, aktiveres en intelligent algoritme. Algoritmen er optimeret til at håndtere enkelt-dags-ture, og den anbefales derfor ikke, hvis man har lange rundture, der strækker sig over flere dage. 
 
