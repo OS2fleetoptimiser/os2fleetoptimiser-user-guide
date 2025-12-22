@@ -1,3 +1,9 @@
+---
+title: FAQ
+layout: default
+nav_order: 5
+---
+
 # Ofte stillede spørgsmål
 
 *1. Hvad forstås ved en **rundtur**?*
