@@ -25,3 +25,5 @@ Få en introduktion til de fem BI-inspirerede [Dashboards](https://os2fleetoptim
 #### Konfiguration
 Lær om hvordan du konfigurerer køretøjer og lokationer i dit setup. Du kan bl.a. tilføje, fjerne og flytte køretøjer og optimere dine rundture på lokationerne. Gå til [Konfiguration](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/konfiguration/konfiguration.html). 
 
+#### FAQ
+Noget du er i tvivl om? Hop til ofte stillede spørgsmål og se, om ikke svaret skulle gemme sig her. Gå til [FAQ](https://os2fleetoptimiser.github.io/os2fleetoptimiser-user-guide/FAQ.html). 
