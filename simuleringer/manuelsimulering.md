@@ -32,7 +32,7 @@ __Begræns km/år__: Hvis du aktiverer _begræns km/år_, vil simuleringen tage 
 
 __Vagtlag__: Her kan du indstille vagtlag for simuleringerne, hvor en bil "låses" til hele det tidsrum, du vælger, således at simuleringerne i højere grad afspejler virkeligheden hvor medarbejderne ikke nødvendigvis kan bytte bil hver gang bilen er på hjemlokationen i løbet af en vagt.
 
-__Generelt__: Her kan du ændre på de generelle stillinger for simuleringer, som f.eks. co2-udledning ved kørsel i hhv. el- og fossilkøretøjer, drivmiddel priser, tid til køretøjsskift og maksimalt tilladte ukørte ture. Du kan vælge at gemme for den enkelte simulering eller at glemme gobalt, dvs. dine ændringer gør sig også gældende i fremtidige simuleringer og for andre brugere i din organisation. 
+__Generelt__: Her kan du ændre på de generelle indstillinger for simuleringer, som f.eks. co2-udledning ved kørsel i hhv. el- og fossilkøretøjer, drivmiddel priser, tid til køretøjsskift og maksimalt tilladte ukørte ture. Du kan vælge at gemme for den enkelte simulering eller at glemme globalt, dvs. dine ændringer gør sig også gældende i fremtidige simuleringer og for andre brugere i din organisation. Det kan godt betale sig at gå disse indstillinger igennem, da de har betydning for resultater i simuleringer. 
 
 __Cykel__: Hvis du vil simulere med cykler, kan du indstille en række parametre for disse, bl.a. maksimal rutelængde, gennemsnitshastighed, samt indstille hvilke tidsrum ruter må tildeles til cykler, f.eks. hvis cykler kun må tildeles til ruter i dagtimerne.
 
